@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ScamProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="ClassName">
+        <item>CMPE131</item>
+        <item>CS146</item>
+        <item>CMPE102</item>
+        <item>CMPE120</item>
+        <item>CS146B</item>
+        <item>Math 161A</item>
+    </string-array>
+    <string-array name="ProfessorName">
+        <item>Badari S.Eswar</item>
+        <item>Jenny Lam</item>
+        <item>Kevin Nguyen</item>
+        <item>Ronald Mark</item>
+        <item>Ahmet Bindal</item>
+        <item>Richard P. Kubelka</item>
+    </string-array>
+    <string-array name="Friends">
+        <item>Dark Face</item>
+        <item>White Face</item>
+    </string-array>
+</resources>
